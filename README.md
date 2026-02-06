@@ -98,7 +98,7 @@ Netherlands
 
 | Color Name | Hex Code | Preview | Usage |
 |:-----------|:---------|:--------|:------|
-| TechNative Orange | `#f2b134` | <img src="https://via.placeholder.com/60x30/f2b134/f2b134" alt="#f2b134"/> | Primary brand color |
+| TechNative Orange | `#f2b134` | <span style="width:10px;height:10px;background-color:#f2b134;"></span> | Primary brand color |
 | TechNative Blue | `#112f41` | <img src="https://via.placeholder.com/60x30/112f41/112f41" alt="#112f41"/> | Primary brand color |
 | TechNative Green | `#86c33a` | <img src="https://via.placeholder.com/60x30/86c33a/86c33a" alt="#86c33a"/> | Accent color (website theme) |
 
