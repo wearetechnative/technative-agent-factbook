@@ -127,3 +127,12 @@ Netherlands
 - AWS DevOps Competency
 - AWS SMB Competency
 - FinOps Foundation Training Partner (First in BeNeLux)
+
+## Demo Company
+
+For creating demo material (proposals, SLAs, Well-Architected reports, slides) we
+use a fictional managed-service customer instead of real customer data.
+
+| Company | Factsheet |
+|:--------|:----------|
+| DemoWorks Europe BV | [DemoWorks Europe BV Factsheet](demoworks-europe-bv.md) |
